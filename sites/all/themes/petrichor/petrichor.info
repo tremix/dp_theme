@@ -1,0 +1,33 @@
+name = Petrichor
+description = Built to use Bootstrap, a sleek, intuitive, and powerful front-end framework for faster and easier web development.
+core = 7.x
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Regions
+;;;;;;;;;;;;;;;;;;;;;
+
+regions[page_top]       = 'Page top'
+regions[page_bottom]    = 'Page bottom'
+regions[header]         = 'Top Bar'
+regions[slideshow]      = 'Slideshow'
+regions[social]         = 'Social'
+regions[content]        = 'Content'
+regions[main_menu]      = 'Main Menu'
+regions[footer]         = 'Footer'
+
+; CSS
+; --------------
+stylesheets[all][] = 'assets/css/styles.css'
+
+;;;;;;;;;;;;;;;;;;;;;
+;; SimplyTest.me
+;;;;;;;;;;;;;;;;;;;;;
+
+simplytest_dependencies[] = jquery_update
+
+; Information added by  packaging script on 2013-11-17
+version = "7.x-3.0"
+core = "7.x"
+project = "petrichor"
+datestamp = "1384678107"
