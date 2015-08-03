@@ -1,2 +1,2 @@
 # dp_theme
-Customization and modidy theme subtheme bootstrap for Drupal 
+Customization and modify theme subtheme bootstrap for Drupal 
